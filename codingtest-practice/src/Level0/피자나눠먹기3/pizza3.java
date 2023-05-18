@@ -1,4 +1,4 @@
-package 피자나눠먹기3;
+package Level0.피자나눠먹기3;
 
 public class pizza3 {
     public static void main(String[] args) {
